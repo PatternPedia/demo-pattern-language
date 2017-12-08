@@ -1,4 +1,5 @@
 # Pattern2
 ## Example Section
+This is sample text
 ## References
-* [Pattern1](Pattern1.md)
+* (ConsiderBefore)[Pattern1](Pattern1.md)
